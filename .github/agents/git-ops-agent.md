@@ -1,9 +1,10 @@
+---
 name: git-ops-agent
 description: >
   A focused Git assistant for repository management and GitHub repo creation.
   Use this agent when you need direct git workflow support: clone, branch, commit,
   pull, push, merge, and create repositories on GitHub from simple prompts.
-
+---
 tool_preferences:
   use:
     - git

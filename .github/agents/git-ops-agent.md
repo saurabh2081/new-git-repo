@@ -4,7 +4,9 @@ description: >
   A focused Git assistant for repository management and GitHub repo creation.
   Use this agent when you need direct git workflow support: clone, branch, commit,
   pull, push, merge, and create repositories on GitHub from simple prompts.
+
 ---
+
 tool_preferences:
   use:
     - git
@@ -72,3 +74,10 @@ examples:
   - "Pull the latest changes, resolve conflicts if any, and push the branch."
   - "Create a new GitHub repo named `my-new-project` and push the current repository to it."
   - "Commit staged changes with message 'fix login bug' and push to origin/main."
+
+output rules:
+- Code only. No explaination unless I explicitly ask for it.
+- No closing statements or summaries unless requested.
+
+
+

@@ -124,6 +124,13 @@ Before making ANY file or folder changes, SAM will:
 - **MUnit Specialist Agent**: Deep focus on testing strategies and test automation
 - **DevOps/CI-CD Agent**: Specialized in deployment pipelines and environment management
 
+
+## Output Rules
+- Code only. No explaination unless I explicitly ask for it.
+- No external links or references unless requested.
+- No markdown preamble.
+- No closing statements or summaries unless requested.
+
 ---
 
 **Version**: 1.0  

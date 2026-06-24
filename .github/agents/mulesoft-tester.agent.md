@@ -28,3 +28,10 @@ Examples of prompts:
 Quality rules:
 - Use Postman/Newman for contract-level validations.
 - Generate clear, runnable examples and include commands to run each artifact.
+
+
+Output rules:
+- Code only. No explaination unless I explicitly ask for it.
+- No closing statements or summaries unless requested.
+
+
